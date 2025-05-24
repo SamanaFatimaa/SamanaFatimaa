@@ -1,6 +1,11 @@
 # 💫 About Me:
-# Hi, I'm Samana 👋<br>🎓 Master's student in Life Science Informatics @ University of Bonn<br>🧬 Background in Biotechnology<br>💻 Skilled in Python, SQL, Machine Learning, and Data Visualization<br>📊 Interested in data-driven problem solving and real-world applications<br>🔬 Currently exploring bioinformatics & predictive modeling
 
+- 👋 Hi, I'm **Samana**
+- 🎓 Master's student in **Life Science Informatics** at the University of Bonn  
+- 🧬 Background in **Biotechnology**
+- 💻 Skilled in **Python**, **SQL**, **Machine Learning**, and **Data Visualization**
+- 📊 Passionate about **data-driven problem solving** and real-world applications
+- 🔬 Currently exploring **bioinformatics** and **predictive modeling**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/samanafatima) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samana_fatima1@hotmail.com) 

@@ -1,6 +1,5 @@
-# 💫 About Me:
+# 👋 Hi, I'm **Samana**
 
-- 👋 Hi, I'm **Samana**
 - 🎓 Master's student in **Life Science Informatics** at the University of Bonn  
 - 🧬 Background in **Biotechnology**
 - 💻 Skilled in **Python**, **SQL**, **Machine Learning**, and **Data Visualization**
